@@ -1,5 +1,7 @@
 # An introduction to __Conda__
 
+An introduction to Conda by _Anastasiia Hyhorzhevska_. This repository serves as a guide for understanding and utilizing Conda for package management and environment control. Your feedback and contributions are highly encouraged!
+
 - [What is conda?](#What-is-conda)
 - [What conda do I have on the cluster?](#What-conda-do-I-have-on-the-cluster)
 - [Anaconda3 installation/activation on the cluster](#Anaconda3-installation/activation-on-the-cluster)
