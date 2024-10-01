@@ -16,7 +16,7 @@ An introduction to Conda by _Anastasiia Hyhorzhevska_. This repository serves as
 - [Running conda in interactive mode](#Running-conda-in-interactive-mode)
 - [Running conda in batch mode](#Running-conda-in-batch-mode)
 - [Useful resources](#Useful-resources)
--[Authors](#Authors)
+- [Authors](#Authors)
 
 # What is __conda__?
 
