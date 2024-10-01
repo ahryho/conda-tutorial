@@ -16,6 +16,7 @@ An introduction to Conda by _Anastasiia Hyhorzhevska_. This repository serves as
 - [Running conda in interactive mode](#Running-conda-in-interactive-mode)
 - [Running conda in batch mode](#Running-conda-in-batch-mode)
 - [Useful resources](#Useful-resources)
+-[Authors](#Authors)
 
 # What is __conda__?
 
@@ -393,3 +394,6 @@ To __check__ the status of your job, enter ```squeue -u <username>```:
 - [Conda Documentation](https://docs.conda.io/en/latest/)
 - [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 
+## Authors
+
+[Anastasiia Hryhorzhevska](https://www.linkedin.com/in/ahryhorzhevska)
